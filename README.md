@@ -1,7 +1,18 @@
+Pijlight Material KDE is forked from Materia KDE.   
+
+It will be customized, improved and extendet.
+
+__________
+
+Original readme.md :
+__________
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/materia-kde/master/preview.png" alt="Preview Materia KDE"/>
 </p>
+
 Materia KDE - This is a port of the popular [GTK theme Materia](https://github.com/nana-4/materia-theme) for Plasma 5 desktop with a few additions and extras.
+
 
 In this repository you'll find:
 
