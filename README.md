@@ -1,6 +1,44 @@
-Pijlight Material KDE is forked from Materia KDE.   
+Pijlight KDE is forked from Materia KDE.   
 
 It will be customized, improved and extendet.
+
+This repo contains, like the original theme:
+
+- Aurorae Theme
+- Konsole Color Schemes
+- Kvantum Themes
+- Plasma Color Schemes
+- Plasma Desktop Theme
+- Plasma Look-and-Feel Settings
+- Yakuake Skins
+
+### PijLight KDE Installer
+
+Use the script to install the latest version directly from this repo (independently on your distro):
+
+#### Install
+
+```
+wget -qO- https://raw.githubusercontent.com/pijt/pijlight-kde/master/install.sh | sh
+```
+
+#### Uninstall
+
+```
+wget -qO- https://raw.githubusercontent.com/pijt/pijlight-kde/master/install.sh | uninstall=true sh
+```
+## Recommendations
+
+- For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
+
+  Run `kvantummanager` to choose and apply **Pij** or **Pij-Dark** or **Pij-Light** theme.
+
+- Install [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
+
+- On systemsettings set **Noto Sans** font for title, menu and toolbar
+
+- For better looking use toolbar icons without text with 22px size (for Papirus themes)
+
 
 __________
 
